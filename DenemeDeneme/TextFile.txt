@@ -1,1 +1,4 @@
 ﻿Git --> Create Git Repository
+Direkt açılır,github açık olması lazım
+
+Mesela bir değişikllik yaptın Git Changes sekmesinde Commit Alla herhaangi bir mesaj yaz 
